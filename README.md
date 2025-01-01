@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishu Nawodya</h1>
 <h3 align="center">👨‍💻Software Engineer 🌐 Coding My Way Through: Passion, Persistence, and Progress.</h3>
 
-- 🔭 I’m currently working on **CeylonCampusPro**
+- 🔭 I’m currently working on **BizTracker** and Online business management system
 
 - 🌱 I’m currently learning **Laravel Framework**
 
