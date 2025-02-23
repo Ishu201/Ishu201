@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel Framework**
 
-- 👨‍💻 All of my projects are available at [[link]([link](http://www.nawodya.in/))](http://www.nawodya.in/)
+- 👨‍💻 All of my projects are available at [([link](http://www.nawodya.in/))](http://www.nawodya.in/)
 
 - 💬 Ask me about **PHP, Javascript**
 
