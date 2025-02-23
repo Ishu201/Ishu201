@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ishu Nawodya</h1>
+![image](https://github.com/user-attachments/assets/5afa7b12-2397-4a8f-868a-eb8602c6b2ba)<h1 align="center">Hi 👋, I'm Ishu Nawodya</h1>
 <h3 align="center">👨‍💻Software Engineer 🌐 Coding My Way Through: Passion, Persistence, and Progress.</h3>
 
 - 🔭 I’m currently working on **BizTracker** , an Online business management system
 
 - 🌱 I’m currently learning **Laravel Framework**
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available at [[link]([link](http://www.nawodya.in/))](http://www.nawodya.in/)
 
 - 💬 Ask me about **PHP, Javascript**
 
