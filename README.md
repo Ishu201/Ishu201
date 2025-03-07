@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ishu Nawodya</h1>
 <h3 align="center">👨‍💻Software Engineer 🌐 Coding My Way Through: Passion, Persistence, and Progress.</h3>
 
-- 🔭 I’m currently working on **BizTracker** , an Online business management system
+- 🔭 I’m currently working on **BizBuddy** , an Online business management system
 
-- 🌱 I’m currently learning **Laravel Framework**
+- 🌱 I have recently learned **Laravel Framework**
 
-- 👨‍💻 All of my projects are available at [([link](http://www.nawodya.in/))](http://www.nawodya.in/)
+- 👨‍💻 All of my projects are available at [(http://www.nawodya.in/))](http://www.nawodya.in/)
 
-- 💬 Ask me about **PHP, Javascript**
+- 💬 Ask me about **PHP, Javascript, Laravel, C#, ASP .NET**
 
 - 📫 How to reach me **nawodyaherath201@gmail.com**
 
