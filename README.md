@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishu201&label=Profile%20views&color=0e75b6&style=flat" alt="ishu201" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishu201" alt="ishu201" /></a> </p>
-
 - 🌱 I’m currently learning **Data Analytics, Data Visualization, Python, and AI model deployment**
 
 - 👯 I’m looking to collaborate on **Open-source data analysis projects**
