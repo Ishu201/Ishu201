@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nawodya</h1>
-<h3 align="center">📊🤖Aspiring Data Scientist & AI/ML Engineer | 🧑‍💻Former Software Engineer</h3>
+<h3 align="center">📊🤖Aspiring Data Scientist & AI/ML Engineer | 🧑‍💻 Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishu201&label=Profile%20views&color=0e75b6&style=flat" alt="ishu201" /> </p>
 
