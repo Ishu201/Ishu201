@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  Four years building ERP systems, APIs, and SQL databases, now applying that
+engineering background to analytics and ML. I care about analyses that survive
+contact with a real stakeholder: clean data pipelines, defensible statistics,
+and dashboards people actually open. <br>
   <a href="https://linkedin.com/in/nawodya-herath-05ab53227" >💼 LinkedIn</a> ·
   <a href="mailto:nawodyaherath201@gmail.com">✉️ Email</a>
 </p>
@@ -54,23 +58,25 @@
 
 ### 📌 Selected projects
 
-#### 🏠 [Ames Housing Price Modeling](LINK) · R
-EDA, VIF multicollinearity checks, Cook's distance outlier removal, all-subsets model selection.
-> 💡 Final model explains **84% of variance** in sale price (R² = 0.84).
+**[Ames Housing Regression](https://github.com/Ishu201/ames-housing-regression)** · R
+End to end regression on 2,900+ home sales. EDA, correlation analysis, VIF checks
+for multicollinearity, Cook's distance outlier removal, and all subsets model
+selection to a final predictive model.
+`R` `regression` `model diagnostics`
 
-#### 🌍 [CO₂, GDP & Carbon Tax](LINK) · R
-Does GDP per capita predict emissions, and do carbon taxes reduce them? 164 countries, 2000 to 2024.
-> 💡 The carbon tax coefficient **flips from +3.59 to −3.24 tonnes per capita** once GDP is
-> controlled for. R² = 0.708. A textbook confounding result: the naive reading says carbon
-> taxes raise emissions, and it is wrong.
+**[Apple Retail Sales Dashboard](https://github.com/Ishu201/apple-sales-powerbi)** · Power BI
+Interactive FY2024 dashboard covering revenue, profit margin, return risk, and
+customer segmentation across Apple's direct retail channel.
+`Power BI` `DAX` `data modeling`
 
-#### ✈️ [Flight Delay Prediction](LINK) · Python, scikit-learn
-Binary classification on arrival delay.
-> 💡 Adding a single engineered feature (previous departure delay) lifted **AUC from 0.634 to 0.769**.
+**[CO₂, GDP & Carbon Tax Analysis](https://github.com/Ishu201/co2-gdp-carbon-tax-analysis)** · R
+Does GDP per capita predict emissions, and does carbon tax reduce them?
+Panel study of 164 countries, 2000 to 2024, using EDA, correlation, and regression.
+`R` `econometrics` `hypothesis testing`
 
-#### 🏦 [Bank Customer Churn Prediction](LINK) · Python, scikit-learn
-Team project. My contribution: [name your specific piece, e.g. feature engineering and model tuning].
-> 💡 Final model reached **AUC 0.916**.
+**[SmartServe Intelligence Bot](https://github.com/Ishu201/SmartServe-Intelligence-Bot)** · Python
+Conversational AI agent for restaurant service, deployed on Azure.
+`Python` `LLM` `Azure` `FastAPI`
 
 ---
 
