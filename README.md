@@ -10,8 +10,6 @@
 engineering background to analytics and ML. I care about analyses that survive
 contact with a real stakeholder: clean data pipelines, defensible statistics,
 and dashboards people actually open. <br>
-  <a href="https://linkedin.com/in/nawodya-herath-05ab53227" >💼 LinkedIn</a> ·
-  <a href="mailto:nawodyaherath201@gmail.com">✉️ Email</a>
 </p>
 
 ---
